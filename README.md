@@ -14,3 +14,9 @@ Bu proje, NBA efsanelerinin istatistiklerini ve bilgilerini gösteren bir React 
 - React
 - CSS
 - JavaScript
+
+## İletişim
+
+- Hazırlayan: Osman Nuri TURHAN
+- LinkedIn: https://www.linkedin.com/in/osman-nuri-turhan/
+- E-posta: osmannuri.turhan01@gmail.com
