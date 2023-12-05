@@ -20,3 +20,7 @@ Bu proje, NBA efsanelerinin istatistiklerini ve bilgilerini gösteren bir React 
 - Hazırlayan: Osman Nuri TURHAN
 - LinkedIn: https://www.linkedin.com/in/osman-nuri-turhan/
 - E-posta: osmannuri.turhan01@gmail.com
+
+
+## GIF ---> 
+![Animation3](https://github.com/osmannuriturhan/React-NbaLegendsPlayer/assets/140538437/4b34219c-e137-4e09-b367-67312539f731)
